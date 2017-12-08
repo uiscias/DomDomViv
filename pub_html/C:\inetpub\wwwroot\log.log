@@ -1,0 +1,14 @@
+[10-Jun-2016 16:08:50 Europe/Berlin] PHP Warning:  require_once(/var/www/DomDomViv/resources/library\pDraw.class.php): failed to open stream: No such file or directory in /var/www/DomDomViv/resources/model/Datalogger.php on line 11
+[10-Jun-2016 16:08:50 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '/var/www/DomDomViv/resources/library\pDraw.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/DomDomViv/resources/model/Datalogger.php on line 11
+[10-Jun-2016 17:24:39 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:24:39 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:24:39 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:24:39 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /var/www/DomDomViv/resources/model/DHT22.php on line 26
+[10-Jun-2016 17:24:49 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:24:49 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:24:49 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:24:49 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /var/www/DomDomViv/resources/model/DHT22.php on line 26
+[10-Jun-2016 17:25:17 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:25:17 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:25:17 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /var/www/DomDomViv/resources/model/DHT22.php on line 23
+[10-Jun-2016 17:25:17 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /var/www/DomDomViv/resources/model/DHT22.php on line 26

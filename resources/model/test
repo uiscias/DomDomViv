@@ -1,0 +1,93 @@
+<!-- History Section -->
+<section id="history" class="portfolio content-section parallax">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <h2>Historical reporting</h2>
+                <h3 class="caption white">These graphics are based on last 48 hours.</h3>
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+
+    <div class="container project-container text-center">
+        <div class="recent-project-carousel owl-carousel owl-theme popup-gallery">
+
+
+            <div class="item recent-project">
+                <div id="ROOM#1HistTemp_div"></div>
+                <div class="project - info"><h4>Device: ROOM (Temp)<br/>Sensor : #1&nbsp;&nbsp; (on pin: 0)</h4>
+                    <ul class="project-meta">
+                        <li><a href="#">ROOM historical reporting</a></li>
+                    </ul>
+                </div><!-- /.project-info -->
+
+                <div class="item recent-project">
+                    <div id="ROOM#1HistHum_div"></div>
+                    <div class="project - info"><h4>Device: ROOM (Hum)<br/>Sensor : #1&nbsp;&nbsp; (on pin: 0)</h4>
+                        <ul class="project-meta">
+                            <li><a href="#">ROOM historical reporting</a></li>
+                        </ul>
+                    </div><!-- /.project-info -->
+                    <div class="full-project">
+                        <a href="http://127.0.0.1/domdom_viv/pub_html//images/charts/1_48_hum.png" title="ROOM - #1 historical">
+                            ROOM - #1 Hum
+                            <i class="fa fa-chevron-right"></i>
+                        </a>
+                    </div><!-- /.full-project -->
+                </div><!-- /.item -->
+
+                <div class="item recent-project">
+                    <div id="LabSolHistTemp_div"></div>
+                    <div class="project - info"><h4>Device: Lab (Temp)<br/>Sensor : Sol&nbsp;&nbsp; (on pin: 7)</h4>
+                        <ul class="project-meta">
+                            <li><a href="#">Lab historical reporting</a></li>
+                        </ul>
+                    </div><!-- /.project-info -->
+
+                    <div class="item recent-project">
+                        <div id="LabSolHistHum_div"></div>
+                        <div class="project - info"><h4>Device: Lab (Hum)<br/>Sensor : Sol&nbsp;&nbsp; (on pin: 7)</h4>
+                            <ul class="project-meta">
+                                <li><a href="#">Lab historical reporting</a></li>
+                            </ul>
+                        </div><!-- /.project-info -->
+
+                        <div class="full-project"><a
+                                href="http://127.0.0.1/domdom_viv/pub_html//images/charts/2_48_hum.png"
+                                title="Lab - Sol historical">Lab - Sol Hum<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                        <!-- /.full-project -->
+                    </div><!-- /.item -->
+
+                    <div class="item recent-project">
+                        <div id="LabHauteurHistTemp_div"></div>
+                        <div class="project - info"><h4>Device: Lab (Temp)<br/>Sensor : Hauteur&nbsp;&nbsp; (on pin: 9)
+                        </h4>
+                            <ul class="project-meta">
+                                <li><a href="#">Lab historical reporting</a></li>
+                            </ul>
+                        </div><!-- /.project-info -->
+                        <div class="item recent-project">
+                            <div id="LabHauteurHistHum_div"></div>
+                            <div class="project - info"><h4>Device: Lab (Hum)<br/>Sensor : Hauteur&nbsp;&nbsp; (on pin:
+                                9)</h4>
+                                <ul class="project-meta">
+                                    <li><a href="#">Lab historical reporting</a></li>
+                                </ul>
+                            </div><!-- /.project-info -->
+                            <div class="full-project"><a
+                                    href="http://127.0.0.1/domdom_viv/pub_html//images/charts/4_48_hum.png"
+                                    title="Lab - Hauteur historical">Lab - Hauteur Hum<i
+                                    class="fa fa-chevron-right"></i></a></div><!-- /.full-project --></div>
+                        <!-- /.item -->        </div><!-- /.recent-project-carousel -->
+
+                    <div class="customNavigation project-navigation text-center">
+                        <a class="btn-prev"><i class="fa fa-angle-left fa-2x"></i></a>
+                        <a class="btn-next"><i class="fa fa-angle-right fa-2x"></i></a>
+                    </div><!-- /.project-navigation -->
+
+                </div><!-- /.container -->
+</section><!-- /.History -->
+
+
+
